@@ -57,11 +57,12 @@
     <ul class="social-icons">
       {% for social in site.data.social -%}
         <li>
-          {% if {{social.title}} == "umn" %}
-            <a class="social-icon" href="{{ social.url }}"><img src="umn.png" width="40"></img></a>
-          {% else %}
-            <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
-          {% endif %}
+          <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
+<!--          {% if {{social.title}} == "umn" %}-->
+<!--            <a class="social-icon" href="{{ social.url }}"><img src="assets/umn.png" width="40"></img></a>-->
+<!--          {% else %}-->
+<!--            <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>-->
+<!--          {% endif %}-->
         </li>
       {%- endfor %}
     </ul>
