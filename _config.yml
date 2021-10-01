@@ -10,7 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-remote-theme
-
+#
 remote_theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
