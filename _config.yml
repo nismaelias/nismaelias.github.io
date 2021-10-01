@@ -1,0 +1,43 @@
+title: Nisma Elias
+description: Nisma Elias | Personal Website
+author: Nisma Elias
+avatar: /headshot.jpg
+email: nisma.elias@gmail.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: ngzhio
+  card: summary
+logo: logo.png
+social:
+  name: Nisma Elias
+  links:
+    - https://www.cehd.umn.edu/olpd/people/students/cide/elias279/
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
+
+skin: sunset
