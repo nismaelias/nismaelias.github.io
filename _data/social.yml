@@ -1,15 +1,15 @@
-- title: Facebook
-  url: https://www.facebook.com/nisma.elias
-  icon: fab fa-facebook-square
 - title: LinkedIn
   url: https://www.linkedin.com/in/nismaelias-umn279
   icon: fab fa-linkedin
-- title: Email
-  url: mailto:nisma.elias@gmail.com
-  icon: fa fa-envelope
 - title: umn
   url: https://www.cehd.umn.edu/olpd/people/students/cide/elias279/
   icon: fa fa-university
+- title: Email
+  url: mailto:elias279@umn.edu
+  icon: fa fa-envelope
+- title: Facebook
+  url: https://www.facebook.com/nisma.elias
+  icon: fab fa-facebook-square
 #- title: GitHub
 #  url: https://github.com/ngzhio/jekyll-theme-hamilton
 #  icon: fab fa-github
