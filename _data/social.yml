@@ -1,6 +1,9 @@
 - title: Facebook
   url: https://www.facebook.com/nisma.elias
   icon: fab fa-facebook-square
+- title: LinkedIn
+  url: https://www.linkedin.com/in/nismaelias-umn279
+  icon: fab fa-linkedin
 - title: Email
   url: mailto:nisma.elias@gmail.com
   icon: fa fa-envelope
