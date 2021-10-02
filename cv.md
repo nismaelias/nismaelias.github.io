@@ -4,6 +4,6 @@ title: Curriculum Vitae
 permalink: "/cv/"
 
 ---
-Here is my CV. 
+Here is [my CV](/nisma-elias-resume/ "resume").
 
 More coming soon
