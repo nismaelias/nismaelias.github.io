@@ -4,7 +4,9 @@ title: Research
 permalink: "/research/"
 
 ---
-**I am interested in** 
+I am a researcher
+
+**I am interested in**
 
 * Socialization of privilege
 * Equity and access
