@@ -1,6 +1,19 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: "/research/"
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti facilis iusto neque possimus totam. Alias, aliquam aliquid animi at cumque dolor dolores eaque et eum eveniet explicabo fuga fugit hic illum impedit incidunt ipsa iure labore laudantium magni nemo nobis nostrum, officia pariatur quas quasi rerum similique tempore tenetur ullam unde ut veritatis voluptatum. Alias deleniti dignissimos doloremque error esse et facilis fugiat laborum molestias odio optio ratione unde, voluptatibus. Accusantium animi, commodi deleniti, ea maxime nam optio ratione rem totam unde voluptas, voluptates! Asperiores, ducimus earum ipsam maiores rem tempore? Beatae eveniet iste labore repellendus? Excepturi reprehenderit vitae voluptatibus?
+**I am intereted in** 
+
+* Socialization of privilege
+* Equity and access
+* Elite schooling
+* Shadow education
+* Private tutoring / private schooling
+
+**Bio**
+
+* Instructor for Mastering Skills for College Success and Academic Success, Student Counseling Center
+* Co-editor of the Reconsidering Development Journal
+* Current chair and founding member of the Graduate League of Organizational Leadership, Policy and Development (GLO)
