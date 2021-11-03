@@ -6,9 +6,9 @@ permalink: "/cv/"
 ---
 Here is [my full CV](https://www.nismaelias.com/uploads/nisma-elias-resume.pdf "resume").  
 <p>
- <b>Education</b> 
-  <p>
-UNIVERSITY OF MINNESOTA Minneapolis, MN PhD Candidate
+ <b>Education</b> </p>
+<p>
+  UNIVERSITY OF MINNESOTA Minneapolis, MN PhD Candidate
 Comparative International Development Education (CIDE) 2018-2023
 <p>
 YALE UNIVERSITY New Haven, CT Master of Arts (MA)  
@@ -17,8 +17,8 @@ International and Development Economics 2012-2013
 REED COLLEGE Portland, OR Bachelor of Arts (BA)  
 Economics, 2008-2012 
   <p>
-<b>Professional Experience </b> 
-    <p>
+<b>Professional Experience </b> </p>
+<p>
 August 2018 - present  
 UNIVERSITY OF MINNESOTA, TWIN CITIES Minneapolis, MN   
     <i>Graduate Instructor and Academic Coach </i>
