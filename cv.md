@@ -21,24 +21,24 @@ Economics, 2008-2012
 <p>
 August 2018 - present  
 UNIVERSITY OF MINNESOTA, TWIN CITIES Minneapolis, MN   
-    <i>Graduate Instructor and Academic Coach </i></p>
+    <i>Graduate Instructor and Academic Coach </i>
 <p>
 November 2016 – December 2018  
 MINISTRY OF EDUCATION VOCATION TRAINING Zanzibar, Tanzania   
-<i>Economist/ODI fellow </i></p>
+<i>Economist/ODI fellow </i>
 <p>
 Feb 2014-Nov 2016  
 WORLD BANK GROUP Washington D.C.  
-<i>Junior Professional Associate (JPA), Education & Development Research Group</i></p>
+<i>Junior Professional Associate (JPA), Education & Development Research Group</i>
 <p>
 July 2013 - Feb 2014  
 RESULTS FOR DEVELOPMENT INSTITUTE (R4D) Washington D.C.  
-<i>Program Associate, Global Education Team </i></p>
+<i>Program Associate, Global Education Team </i>
 <p>
 January – April 2013  
 INNOVATIONS FOR POVERTY ACTION (IPA) New Haven, CT  
-<i>Data Analyst, U.S. Household Finance Initiative </i></p>
+<i>Data Analyst, U.S. Household Finance Initiative </i>
 <p>
 August 2011 - May 2012  
 REED COLLEGE Portland, Oregon  
-<i>Humanities and Economics Tutor</i></p>
+<i>Humanities and Economics Tutor</i>
