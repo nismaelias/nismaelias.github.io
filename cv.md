@@ -6,7 +6,7 @@ permalink: "/cv/"
 ---
 Here is [my full CV](https://www.nismaelias.com/uploads/nisma-elias-resume.pdf "resume").  
 <p>
-**Education**  
+Education  
 UNIVERSITY OF MINNESOTA _Minneapolis, MN_ PhD Candidate
 Comparative International Development Education (CIDE) 2018-2023
 
@@ -16,8 +16,8 @@ International and Development Economics 2012-2013
 REED COLLEGE _Portland, OR_ Bachelor of Arts (BA)  
 Economics. GPA: 3.65 2008-2012 </p>  
   
-**Professional Experience  
-**August 2018 - present  
+Professional Experience  
+August 2018 - present  
 UNIVERSITY OF MINNESOTA, TWIN CITIES Minneapolis, MN   
 _Graduate Instructor and Academic Coach_ 
 
@@ -39,4 +39,4 @@ _Data Analyst, U.S. Household Finance Initiative_
 
 August 2011 - May 2012  
 REED COLLEGE Portland, Oregon  
-_Humanities and Economics Tutor_ 
+_Humanities and Economics Tutor_
